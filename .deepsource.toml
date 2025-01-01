@@ -5,7 +5,3 @@ name = "php"
 
 [[analyzers]]
 name = "javascript"
-
-  [analyzers.meta]
-  plugins = ["vue"]
-  environment = ["nodejs"]
